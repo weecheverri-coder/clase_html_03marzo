@@ -1,0 +1,50 @@
+.body { margin: 0;
+padding: 0;
+}
+
+.header {
+    background-color: rgba(198, 159, 235, 0.774);
+    display:flex;
+    justify-content: space-between ;
+    padding: 20px;
+}
+
+.texto {
+    color:black ;
+    cursor: pointer;
+
+}
+
+.menu {
+    display: flex;
+    gap: 25px;
+
+}
+
+.menu-item {
+    color: black;
+    cursor: pointer;
+
+}
+
+/* configuraciones del contenido */
+.card-container {
+    display: flex;
+
+}
+
+.card-item {
+
+}
+
+.card-title {
+
+}
+
+.card-content {
+
+}
+
+.card footer {
+
+}
